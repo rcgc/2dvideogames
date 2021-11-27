@@ -12,7 +12,7 @@ A <b>design pattern</b> names, abstracts, and identifies the key aspects of a co
 <p><b>Image 2. </b>Level 1</p><br>
 
 ![screenshot.png](https://github.com/rcgc/2dvideogames/blob/master/img/screenshot2.png)
-<p><b>Image 3. </b>Level2</p><br>
+<p><b>Image 3. </b>Level 2 (final level)</p><br>
 
 ## References
 [1]E. Freeman and E. Robson, Head First design patterns, 1st ed. Sebastopol, CA: O'Reilly, Edition: 10th Anniversary ed., 2014.<br>
