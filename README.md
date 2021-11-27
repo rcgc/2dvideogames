@@ -1,6 +1,8 @@
 # 2dvideogames
-2dvideogames project. 5th semester.
 ## Abstract
+Patterns  describe a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution million times over, wihtout ever doing it in the same way twice[1].
+
+Design patters are descriptions of communicating objects and classes that are customized to solve a general problem in a particular context.
 
 ## Demo
 ![screenshot.png](https://github.com/rcgc/2dvideogames/blob/master/img/screenshot0.png)
