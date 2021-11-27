@@ -1,4 +1,4 @@
-# 2dvideogames
+# 2D videogame
 ## Abstract
 <b>Patterns</b> describe a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution million times over, wihtout ever doing it in the same way twice. Design patters are descriptions of communicating objects and classes that are customized to solve a general problem in a particular context[2].
 
