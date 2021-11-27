@@ -1,8 +1,8 @@
 # 2dvideogames
 ## Abstract
-Patterns  describe a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution million times over, wihtout ever doing it in the same way twice. Design patters are descriptions of communicating objects and classes that are customized to solve a general problem in a particular context[2].
+<b>Patterns</b> describe a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution million times over, wihtout ever doing it in the same way twice. Design patters are descriptions of communicating objects and classes that are customized to solve a general problem in a particular context[2].
 
-A design pattern names, abstracts, and identifies the key aspects of a common dessign structure that make it useful for creating a reusable object-oriented design. The design pattern identifies the participating classes and instances, their roles and collaborations, and the distribution of responsiblities. Each design pattern focuses on a particular object-oriented design problem or issue. It describes when it applies, whether it can be applied in view of other design constraints, and the consequences and trade-offs of its use[2].
+A <b>design pattern</b> names, abstracts, and identifies the key aspects of a common dessign structure that make it useful for creating a reusable object-oriented design. The design pattern identifies the participating classes and instances, their roles and collaborations, and the distribution of responsiblities. Each design pattern focuses on a particular object-oriented design problem or issue. It describes when it applies, whether it can be applied in view of other design constraints, and the consequences and trade-offs of its use[2].
 
 ## Demo
 ![screenshot.png](https://github.com/rcgc/2dvideogames/blob/master/img/screenshot0.png)
