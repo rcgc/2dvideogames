@@ -4,6 +4,13 @@
 
 A <b>design pattern</b> names, abstracts, and identifies the key aspects of a common dessign structure that make it useful for creating a reusable object-oriented design. The design pattern identifies the participating classes and instances, their roles and collaborations, and the distribution of responsiblities. Each design pattern focuses on a particular object-oriented design problem or issue. It describes when it applies, whether it can be applied in view of other design constraints, and the consequences and trade-offs of its use[2].
 
+## Implemented Patterns
+- <b>State: </b> Main character state management
+- <b>Strategy: </b> Level management
+- <b>Observer: </b> Collision management
+- <b>Singleton: </b> Characters factory-instantiation
+- <b>Factory: </b> Characters instantiation
+
 ## Demo
 ![Level1](https://github.com/rcgc/2dvideogames/blob/master/img/screenshot1.png)
 <p><b>Image 1. </b>Level 1</p><br>
